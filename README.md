@@ -2,7 +2,6 @@
 
 Welcome to the **HTB Complete Guide**! This repository is a comprehensive collection of solutions, notes, tips, and techniques gathered from completing various modules within the **Hack The Box (HTB) Academy**. If you're preparing for certifications, honing your ethical hacking skills, or just getting started with cybersecurity, this guide is here to support your journey. 🚀
 
----
 
 ## 📖 Table of Contents
 
@@ -17,7 +16,6 @@ Welcome to the **HTB Complete Guide**! This repository is a comprehensive collec
 5. [Contributing](#contributing)
 6. [License](#license)
 
----
 
 ## 🔍 Introduction
 
@@ -30,7 +28,6 @@ This repository is structured to provide a **complete guide** through all the mo
 
 > **Note:** This repository is for educational purposes only. Please use the information responsibly and ethically.
 
----
 
 ## 📂 Repository Structure
 
@@ -40,7 +37,6 @@ The structure of this repository is organized by module **difficulty level** and
 - **Solution files** with scripts, code snippets, or commands used to solve exercises.
 - **Notes** that explain the methods used, potential variations, and additional research materials.
 
----
 
 ## 🔍 Modules by Difficulty
 
@@ -134,7 +130,6 @@ These modules tackle advanced topics in cybersecurity, often requiring in-depth 
 
 1. [Introduction to Malware Analysis](./Hard/Intro-to-Malware-Analysis)
 
----
 
 ## 🎓 How to Use This Guide
 
@@ -146,7 +141,6 @@ These modules tackle advanced topics in cybersecurity, often requiring in-depth 
 
 > **Tip:** Regularly test the techniques in a safe environment, such as a virtual machine or isolated network, to avoid accidental misuse.
 
----
 
 ## 🌟 Contributing
 
@@ -159,7 +153,6 @@ Contributions are welcome! Here’s how to get started:
 
 By contributing, you help make this repository a richer and more valuable resource for the entire cybersecurity community. 💪
 
----
 
 ## 📜 License
 
