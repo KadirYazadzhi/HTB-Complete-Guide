@@ -5,7 +5,7 @@ Welcome to the **HTB Complete Guide**! This repository is a comprehensive collec
 
 ## 📖 Table of Contents
 
-1. [Introduction](#introduction)
+1. [Introduction](#Introduction)
 2. [Repository Structure](#repository-structure)
 3. [Modules by Difficulty](#modules-by-difficulty)
    - [Fundamentals](#fundamentals)
